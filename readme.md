@@ -18,6 +18,7 @@ VIDEO DEMO => [YOUTUBE](https://youtu.be/jIl1KMIN5xg)
 ## Código
 * El código de la tarjeta se puede encontrar en el presente demo
 * El lambda function lo puedes encontrar en esta liga [ARMIN_LAMBDA](https://github.com/regenhans/armin_lambda)
+* Puedes consultar la [API](https://i5yaae778k.execute-api.us-east-1.amazonaws.com/armindata)
 
 ## Consiste en los siguientes elementos:
 
