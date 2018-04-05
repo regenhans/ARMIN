@@ -15,6 +15,10 @@ VIDEO DEMO => [YOUTUBE](https://youtu.be/jIl1KMIN5xg)
 * La API puede ser consumida para la investigación, o en este caso...
 * Consumir la información amablemente desde un skill de alexa. 
 
+## Código
+* El código de la tarjeta se puede encontrar en el presente demo
+* El lambda function lo puedes encontrar en esta liga [ARMIN_LAMBDA](https://github.com/regenhans/armin_lambda)
+
 ## Consiste en los siguientes elementos:
 
 ![diagrama](https://s3-us-west-1.amazonaws.com/thehackermonkey/armin_diagram.jpeg
