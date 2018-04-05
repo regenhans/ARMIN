@@ -35,12 +35,6 @@ Datos enviados por medio del shadow
 ### 2. 
 ![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/schematic.png) [Code](https://github.com/regenhans/armin_lambda)
 
-
-### 3.
-
-![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/schematic.png) 
-
-
 ### 4.
 
 ![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/api.png) 
