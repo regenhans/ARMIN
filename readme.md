@@ -25,4 +25,23 @@ VIDEO DEMO => [YOUTUBE](https://youtu.be/jIl1KMIN5xg)
 ![diagrama](https://s3-us-west-1.amazonaws.com/thehackermonkey/armin_diagram.jpeg
 )
 
+## Pruebas
 
+### 1.
+
+![shadow](https://s3-us-west-1.amazonaws.com/thehackermonkey/shadow.png)
+Datos enviados por medio del shadow
+
+### 2. 
+![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/schematic.png) [Code](https://github.com/regenhans/armin_lambda)
+
+
+### 3.
+
+![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/schematic.png) 
+
+
+### 4.
+
+![lambda connection](https://s3-us-west-1.amazonaws.com/thehackermonkey/api.png) 
+API : Consult it [here](https://i5yaae778k.execute-api.us-east-1.amazonaws.com/armindata)
