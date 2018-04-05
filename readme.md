@@ -5,6 +5,8 @@
 
 Armin es una estación de monitoreo del aire conectada a AWS.
 
+VIDEO DEMO => [YOUTUBE](https://youtu.be/jIl1KMIN5xg)
+
 ## Cómo funciona?
 
 * Armin se conecta gracias a FREERTOS a AWS y publica información constantemente.
