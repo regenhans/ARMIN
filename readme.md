@@ -19,7 +19,7 @@ VIDEO EXPLICACIÓN DE POR QUÉ Y CÓMO LO HICE => [YOUTUBE](https://youtu.be/i7A
 
 ## ¿Por qué Armin?
 
-Yo, al igual que millones de personas en el mundo padezco de una enfermedad respiratoria. Tomar o no mis medicamentos por la mañana puede cambiar por completo mi día, sin embargo no siempre sé que da soy más vulnerable a sufrir un ataque alérgico.
+Yo, al igual que millones de personas en el mundo padezco de una enfermedad respiratoria. Tomar o no mis medicamentos por la mañana puede cambiar por completo mi día, sin embargo no siempre sé que día soy más vulnerable a sufrir un ataque alérgico.
 
 Esto aunado al llamado de la Organización mundial de la salud a crear tecnología que ayude a estudiar y predecir futuros elementos ambientales me llevaron a construir este proyecto. No solo para el uso de personas como yo, si no a construir una API para que investigadores conectados a miles o cientos de miles de estos dispositivos pudieran en un futuro consumir datos más específicos del ambiente de las personas y hacer estudios clave para el tratamiento de futuras enfermedades aereas.
 
