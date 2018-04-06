@@ -6,6 +6,7 @@
 Armin es una estación de monitoreo del aire conectada a AWS.
 
 VIDEO DEMO => [YOUTUBE](https://youtu.be/jIl1KMIN5xg)
+VIDEO EXPLICACIÓN DE POR QUÉ Y CÓMO LO HICE => [YOUTUBE](https://youtu.be/i7A2PlM9H-s)
 
 ## Cómo funciona?
 
@@ -30,6 +31,13 @@ Esto aunado al llamado de la Organización mundial de la salud a crear tecnolog�
 
 ![diagrama](https://s3-us-west-1.amazonaws.com/thehackermonkey/armin_diagram.jpeg
 )
+
+## Cosas que aprendí en el camino
+
+* Un montón de funciones de C
+* A leer documentación de embebidos
+* A construir un skill de alexa
+
 
 ## Pruebas
 
